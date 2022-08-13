@@ -11,7 +11,10 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/abdullahi-mustafa-1a1996237/"><img align="left" src="/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/abdullahi-mustafa-1a1996237/"><img align="left" src="/images/linkedin.png" alt="icon | LinkedIn" width="23px"/></a>
+<a href="https://www.instagram.com/abdullmustyy/"><img align="left" src="/images/instagram.png" alt="icon | Instagram" width="23px"/></a>
+<a href="https://twitter.com/hxnz33"><img align="left" src="/images/twitter.png" alt="icon | Twitter" width="23px"/></a>
+<br />
 
 ### Languages and Tools:
 
