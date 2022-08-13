@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/abdullahi-mustafa-1a1996237/"><img align="left" src="https://raw.githubusercontent.com/abdullmustyy/abdullmustyy/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/abdullahi-mustafa-1a1996237/"><img align="left" src="/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
 
 ### Languages and Tools:
 
