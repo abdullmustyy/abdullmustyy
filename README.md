@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/87391935/184502510-f05e52dd-8c57-427c-9f51-91916bd439db.png" alt="My banner" />
+
 # Hello there, I'm Abdul 👋
 
 ## I'm an aspiring Full-Stack Developer!
