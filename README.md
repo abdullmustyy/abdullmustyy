@@ -11,14 +11,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/hxnz33#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/hxnz33#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abdullahi-mustafa-1a1996237/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abdullahi-mustafa-1a1996237/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/abdullmustyy/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/abdullmustyy/#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/abdullahi-mustafa-1a1996237/"><img align="left" src="https://raw.githubusercontent.com/abdullmustyy/abdullmustyy/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
 
 ### Languages and Tools:
 
