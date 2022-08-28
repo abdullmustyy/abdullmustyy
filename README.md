@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulmusty03@outlook.com**
 
-- ⚡ Fun fact **I code.**
+- ⚡ Fun fact: **I code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
