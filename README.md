@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abdullahi Mustafa</h1>
-<h3 align="center">A Full-Stack Developer💻</h3>
+<h3 align="center">A Web Developer🕸️</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullmustyy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullmustyy" /> </p>
 
