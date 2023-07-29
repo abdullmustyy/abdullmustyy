@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently making **Open-Source Contributions**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nestjs**
 
 - 👨‍💻 Some of my projects are available at [https://abdullmustyy.netlify.app/](https://abdullmustyy.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Reactjs/Nextjs**
 
 - 📫 How to reach me **abdulmusty03@outlook.com**
 
