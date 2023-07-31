@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://abdullmustyy.netlify.app/](https://abdullmustyy.netlify.app/)
 
-- 💬 Ask me about **Reactjs/Nextjs**
+- 💬 Ask me about **React / Next**
 
 - 📫 How to reach me **abdulmusty03@outlook.com**
 
