@@ -38,6 +38,19 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 April 2024 - To: 15 April 2024
+
+Total Time: 17 hrs 33 mins
+
+TypeScript    16 hrs 40 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.95 %
+Prisma        18 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.78 %
+JSON          13 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.28 %
+Bash          8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.85 %
+JavaScript    4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.39 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- <img alt="abdullmustyy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdullmustyy&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true&bg_color=1F222E&text_color=c9d1d9" height="192px"/>
