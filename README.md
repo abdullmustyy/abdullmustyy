@@ -1,5 +1,5 @@
 <p>👋 Hey you,</p>
-<p>🏴 Here's a sneak peek of how I spent my week.</p>
+<p>🏴 This is how I spent my week.</p>
 
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullmustyy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullmustyy" /> </p>
 
