@@ -27,6 +27,7 @@ Other        5 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![.NET](https://img.shields.io/badge/dotnet-%23323330?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=white)
 [![VisualStudio](https://img.shields.io/badge/VSCode-%23323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!--![Nestsj](https://img.shields.io/badge/NestJS-%23323330?logo=nestjs&logoColor=white&style=for-the-badge)
